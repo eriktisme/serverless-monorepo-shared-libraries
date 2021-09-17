@@ -1,0 +1,13 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "serverless": "^2.59.0",
+    "serverless-plugin-optimize": "^4.2.1-rc.1",
+    "serverless-plugin-typescript": "^2.0.0",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "package-echo": "1.0.0"
+  }
+}
